@@ -1,6 +1,6 @@
 <h1>Police Interrogation Simulator</h1>
 
-<p>A text-based "interview experience" powered by GPT-3. See if you can hold your own during some intense questioning!</p>
+<p>A text-based "Interview Experience" powered by GPT-3. See if you can hold your own during some intense questioning!</p>
 
 <h2>Requirements</h2>
 <ul>
@@ -15,7 +15,8 @@
  </ul>
 
 <h2>Contributions</h2>
-<p>This project is open to contributions and pull requests are welcome. If you have any ideas or suggestions for improvements, please feel free to contribute!</p>
+<p>This project is open to contributions and pull requests are welcome. If you have any ideas or suggestions for improvements, please feel free to contribute!
+<a href="https://discord.gg/ep4DApswMj">Development Discord</a></p>
 
 <h2>Roadmap</h2>
 <ul>
