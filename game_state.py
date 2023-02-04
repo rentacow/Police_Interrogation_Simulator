@@ -1,4 +1,4 @@
-# almost certainly wont work, but a game state tracking implementation more or less
+# almost certainly wont work, but might be useful
 # also will need a check that the player didn't type the keyword, or something
 
 import openai
