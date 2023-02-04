@@ -10,22 +10,21 @@
 
 <h2>Features</h2>
 <ul>
-  <li>Realistic text-based interrogation experience</li>
-  <li>Game state tracking with the ability to level up</li>
-  <li>Attempt to dodge a polyraph examination</li>
-  <li>Bonus round: Get a hearing with the judge to try and weasel your way out of trouble</li>
-</ul>
+  <li>Uncanny, and often hilarious text-based interrogation experience.</li>
+ </ul>
 
 <h2>Contributions</h2>
 <p>This project is open to contributions and pull requests are welcome. If you have any ideas or suggestions for improvements, please feel free to contribute!</p>
 
 <h2>Roadmap</h2>
 <ul>
+  <li>Game state tracking with the ability to level up</li>
+  <li>Attempt to dodge a polygraph examination</li>
+  <li>Bonus round: Get a hearing with the judge to try and weasel your way out of trouble</li>
   <li>More intuitive prompt handling implementation</li>
   <li>Use stop tokens</li>
   <li>Interjections to make the experience even more immersive</li>
   <li>Sanitize player input to prevent cheating</li>
-  <li>Open to more ideas and suggestions!</li>
 </ul>
 
 <h2>Known Bugs</h2>
