@@ -10,7 +10,8 @@
 
 <h2>Features</h2>
 <ul>
-  <li>Uncanny, and often hilarious text-based interrogation experience.</li>
+  <li>Uncanny, and often hilarious text-based gameplay.</li>
+  <li>Fully dynamic dialogue.</li>
  </ul>
 
 <h2>Contributions</h2>
