@@ -5,12 +5,12 @@ openai.api_key = os.getenv("OPENAI_API_KEY")
 
 # AI Chat Bot is Detective, User is Suspect
 
-######   NOT IMPLEMENTED YET   ########
+#   NOT IMPLEMENTED YET   #
 # Level 1: easy (level up w/ free to go)
 # level 2: hard (this version, level up w/ we're done OR lawyer arrives to dodge poly)
 # level 3: polygraph examination (lol)
 # level 4: bonus round. hearing w/ judge for dodging poly
-#######################################
+#
 
 
 start_sequence = "\nDetective:"
