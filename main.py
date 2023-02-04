@@ -9,12 +9,13 @@ start_sequence = "\nDetective:"
 restart_sequence = "\nSuspect: "
 
 previous_response = (
-    "The following is a transcript of an interview, between a police detective and the suspect"
-    "of a grand theft auto investigation. The suspect does know something, but has been uncooperative. "
+    "The following is a transcript of an interview, between a police detective and the main suspect"
+    "of a very serious investigation. The suspect does know something, but has been denying it. "
     "The detective is determined to get to the bottom of this and find out exactly what this suspect "
     " knows. The detective is familiar with a number of well established interrogation techniques and "
-    "demonstrates them well.\n\n"
-    "Suspect: I told you I don't know anything.\nDetective: Look, why don't you just let me know "
+    "demonstrates them well. The detective does have evidence, directly linking this suspect to the crime scene "
+    " therefor the suspect is not free to go.\n\n"
+    "Suspect: Wasn't me, must have been some other guy.\nDetective: Look, why don't you just let me know "
     "when you're ready to talk, OK?\n"
     "Suspect: "
 )
