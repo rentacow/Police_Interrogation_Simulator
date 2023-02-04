@@ -19,11 +19,12 @@
 
 <h2>Roadmap</h2>
 <ul>
-  <li>Game state tracking. The ability to level up</li>
-  </li>Store game prompts in a list for easy access and use in game state tracking</li>
+  Game state tracking. The ability to level up!
+  <li>Store game prompts in a list for easy access and use in game state tracking</li>
+  More levels!
   <li>Attempt to dodge a polygraph examination</li>
-  <li>Bonus round: Get a hearing with the judge to try and weasel your way out of trouble</li>
-  <li>More intuitive prompt handling implementation</li>
+  <li>Bonus round: Get a hearing with the judge to try and weasel your way out of this mess THAT WAY!</li>
+  More intuitive prompt handling implementation
   <li>Use stop tokens</li>
   <li>Interjections to make the experience even more immersive. Our detective seems to respond well to [narrative events]</li>
   <li>Sanitize player input to prevent cheating in this regard.</li>
