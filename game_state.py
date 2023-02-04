@@ -1,4 +1,5 @@
 # proposed game state tracking implementation
+# also will need a check that the player didn't type the keyword, or something
 
 import openai
 
