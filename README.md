@@ -1,7 +1,8 @@
 # Police_Interrogation_Simulator
-A text-based game powered by GPT-3.
+A text-based "interview experience" powered by GPT-3.
 
 "You just let me know when you're ready to talk, OK buddy?
 
 
-MIT License
+Requirements: OpenAI API key
+Licence: MIT
