@@ -1,7 +1,8 @@
-# almost certainly wont work, but might be useful
+# almost certainly won't work, but might be useful
 # also will need a check that the player didn't type the keyword, or something
 
 import openai
+
 
 def level_up(completion):
     # Define the keyword that indicates the player has leveled up
@@ -21,6 +22,7 @@ def level_up(completion):
             print("Keyword was in the request, no level up.")
     else:
         print("Keyword not found, no level up.")
+
 
 # Example usage
 completion = openai.Completion.create(

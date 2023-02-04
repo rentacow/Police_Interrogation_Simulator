@@ -32,7 +32,7 @@
 
 <h2>Known Bugs</h2>
 <ul>
-  <li>Suspect seems to have a bit of a loose tounge...  ( ͡° ͜ʖ ͡°) </li>
+  <li>Suspect seems to have a bit of a loose tongue...  ( ͡° ͜ʖ ͡°) </li>
 </ul>
 
 <h2>License</h2>
