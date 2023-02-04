@@ -1,6 +1,6 @@
 <h1>Police Interrogation Simulator</h1>
 
-<p>A text-based "interview experience" powered by GPT-3. Immerse yourself in the role of a suspect being interrogated by a detective and see if you can hold your own in the intense questioning.</p>
+<p>A text-based "interview experience" powered by GPT-3. See if you can hold your own during some intense questioning!</p>
 
 <h2>Requirements</h2>
 <ul>
@@ -19,13 +19,14 @@
 
 <h2>Roadmap</h2>
 <ul>
-  <li>Game state tracking with the ability to level up</li>
+  <li>Game state tracking. The ability to level up</li>
+  </li>Store game prompts in a list for easy access and use in game state tracking</li>
   <li>Attempt to dodge a polygraph examination</li>
   <li>Bonus round: Get a hearing with the judge to try and weasel your way out of trouble</li>
   <li>More intuitive prompt handling implementation</li>
   <li>Use stop tokens</li>
-  <li>Interjections to make the experience even more immersive</li>
-  <li>Sanitize player input to prevent cheating</li>
+  <li>Interjections to make the experience even more immersive. Our detective seems to respond well to [narrative events]</li>
+  <li>Sanitize player input to prevent cheating in this regard.</li>
 </ul>
 
 <h2>Known Bugs</h2>
