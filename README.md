@@ -22,7 +22,7 @@
   <li>Game state tracking. The ability to level up!</li>
   <li>Store game prompts in a list for easy access and use in game state tracking</li>
   <li>Levels!</li>
-  Attempt to dodge a polygraph examination
+  Attempt to dodge a polygraph examination<br>
   Bonus round: Get a hearing with the judge to try and weasel your way out of this mess THAT WAY!
   <li>More intuitive, flexible prompt handling implementation</li>
   Use Stop Tokens<br>
@@ -32,7 +32,7 @@
 
 <h2>Known Bugs</h2>
 <ul>
-  <li>Suspect seems to have a bit of a loose tounge...  ( ͡° ͜ʖ ͡°) </li>
+  <li>Suspect seems to have a bit of a loose tongue...  ( ͡° ͜ʖ ͡°) </li>
 </ul>
 
 <h2>License</h2>
