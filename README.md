@@ -1,6 +1,6 @@
 <h1>Police Interrogation Simulator</h1>
 
-<p>A text-based "interview experience" powered by GPT-3. See if you can hold your own during some intense questioning!</p>
+<p>A text-based "Interview Experience" powered by GPT-3. See if you can hold your own during some intense questioning!</p>
 
 <h2>Requirements</h2>
 <ul>
@@ -12,10 +12,12 @@
 <ul>
   <li>Uncanny, and often hilarious text-based gameplay.</li>
   <li>Fully dynamic dialogue.</li>
+  <li>Inherent multilingual support. The detective speaks to you in whatever language you do.</li>
  </ul>
 
 <h2>Contributions</h2>
-<p>This project is open to contributions and pull requests are welcome. If you have any ideas or suggestions for improvements, please feel free to contribute!</p>
+<p>This project is open to contributions and pull requests are welcome. If you have any ideas or suggestions for improvements, please feel free to contribute!
+<a href="https://discord.gg/ep4DApswMj">Development Discord</a></p>
 
 <h2>Roadmap</h2>
 <ul>
@@ -26,6 +28,7 @@
   Bonus round: Get a hearing with the judge to try and weasel your way out of this mess THAT WAY!
   <li>More intuitive, flexible prompt handling implementation</li>
   Use Stop Tokens<br>
+  Stream the completion to the player.<br>
   Interjections to make the experience even more immersive. Our detective seems to respond well to [narrative events]
   <li>Sanitize player input to prevent cheating in this regard.</li>
 </ul>
