@@ -5,6 +5,14 @@ openai.api_key = os.getenv("OPENAI_API_KEY")
 
 # AI Chat Bot is Detective, User is Suspect
 
+######   NOT IMPLIMENTED YET   ########
+# Level 1: easy (level up w/ free to go)
+# level 2: hard (this version, level up w/ we're done OR lawyer arrives to dodge poly)
+# level 3: polygraph examination (lol)
+# level 4: bonus round. hearing w/ judge for dodging poly
+#######################################
+
+
 start_sequence = "\nDetective:"
 restart_sequence = "\nSuspect: "
 
@@ -15,7 +23,7 @@ previous_response = (
     " knows. The detective is familiar with a number of well established interrogation techniques and "
     "demonstrates them well. The detective does have evidence, directly linking this suspect to the crime scene "
     " therefor the suspect is not free to go.\n\n"
-    "Suspect: Wasn't me, must have been some other guy.\nDetective: Look, why don't you just let me know "
+    "Suspect: Wasn't me, must have been someone else.\nDetective: Look, why don't you let me know "
     "when you're ready to talk, OK?\n"
     "Suspect: "
 )
