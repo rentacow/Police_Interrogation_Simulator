@@ -12,6 +12,7 @@
 <ul>
   <li>Uncanny, and often hilarious text-based gameplay.</li>
   <li>Fully dynamic dialogue.</li>
+  <li>Limited multilingual support. Just insist that the detective speaks to you in whatever language you wish, in that language.</li>
  </ul>
 
 <h2>Contributions</h2>
