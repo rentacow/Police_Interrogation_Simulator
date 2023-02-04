@@ -1,20 +1,37 @@
-# Police_Interrogation_Simulator
-A text-based "interview experience" powered by GPT-3.<br>
+<h1>Police Interrogation Simulator</h1>
 
-"Why don't you come by the station and, let's have a chat?"<br>
+<p>A text-based "interview experience" powered by GPT-3. Immerse yourself in the role of a suspect being interrogated by a detective and see if you can hold your own in the intense questioning.</p>
 
-<br><br>
-Requirements: OpenAI API key, Python
-<br><br>
-Contributions: Pull requests welcome!
-<br><br>
-TODO:<br>
-Ability to level up!<br>
-Try to dodge the dreaded polygraph examination!<br>
-Bonus round, get a hearing with the judge to try and weasel your way out of this mess THAT WAY!<br>
+<h2>Requirements</h2>
+<ul>
+  <li>OpenAI API Key</li>
+  <li>Python</li>
+</ul>
 
-Known bugs:<br>
-Suspect seems to have a bit of a loose tounge. ( ͡° ͜ʖ ͡°) <br>
-<br>
-<br>
-Licence: MIT
+<h2>Features</h2>
+<ul>
+  <li>Realistic text-based interrogation experience</li>
+  <li>Game state tracking with the ability to level up</li>
+  <li>Attempt to dodge a polyraph examination</li>
+  <li>Bonus round: Get a hearing with the judge to try and weasel your way out of trouble</li>
+</ul>
+
+<h2>Contributions</h2>
+<p>This project is open to contributions and pull requests are welcome. If you have any ideas or suggestions for improvements, please feel free to contribute!</p>
+
+<h2>Roadmap</h2>
+<ul>
+  <li>More intuitive prompt handling implementation</li>
+  <li>Use stop tokens</li>
+  <li>Interjections to make the experience even more immersive</li>
+  <li>Sanitize player input to prevent cheating</li>
+  <li>Open to more ideas and suggestions!</li>
+</ul>
+
+<h2>Known Bugs</h2>
+<ul>
+  <li>Suspect seems to have a bit of a loose tounge...  ( ͡° ͜ʖ ͡°) </li>
+</ul>
+
+<h2>License</h2>
+<p>MIT</p>
