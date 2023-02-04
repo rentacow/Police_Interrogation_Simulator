@@ -10,6 +10,8 @@ openai.api_key = os.getenv("OPENAI_API_KEY")
 # level 2: hard (this version, level up w/ we're done OR lawyer arrives to dodge poly)
 # level 3: polygraph examination (lol)
 # level 4: bonus round. hearing w/ judge for dodging poly
+# level 5: trial? lots of prompts needed for this... could get ugly
+# level 6: in prison, chatting with your cellmate for the rest of your life
 
 start_sequence = "\nDetective: "
 restart_sequence = "\nSuspect: "
