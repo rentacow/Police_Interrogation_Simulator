@@ -14,7 +14,7 @@ Try to dodge the dreaded polygraph examination!<br>
 Bonus round, get a hearing with the judge to try and weasel your way out of this mess THAT WAY!<br>
 
 Known bugs:<br>
-Double completion request gets sent occasionally<br>
+Suspect seems to have a bit of a loose tounge. ( ͡° ͜ʖ ͡°) <br>
 <br>
 <br>
 Licence: MIT
