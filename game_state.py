@@ -1,4 +1,4 @@
-# proposed game state tracking implementation
+# almost certainly wont work, but a game state tracking implementation more or less
 # also will need a check that the player didn't type the keyword, or something
 
 import openai
