@@ -1,6 +1,7 @@
 <h1>Police Interrogation Simulator</h1>
 
-<p>A text-based "Interview Experience" powered by GPT-3. See if you can hold your own during some intense questioning!</p>
+<p>"How about you swing by the station and let's have a chat?"</p>
+<p>A text-based "Interview Experience" powered by GPT-3.</p>
 
 <h2>Requirements</h2>
 <ul>
