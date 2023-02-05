@@ -44,7 +44,7 @@ while True:
         model="text-davinci-003",
         prompt=prompt,
         max_tokens=150,
-        temperature=0.7,
+        temperature=0.9,
         top_p=1,
         frequency_penalty=0,
         presence_penalty=0

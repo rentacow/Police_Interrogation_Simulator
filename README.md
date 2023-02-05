@@ -2,7 +2,7 @@
 
 <p>"How about you swing by the station and let's have a chat?"</p>
 <p>A text-based "Interview Experience" powered by GPT-3.</p>
-
+<img src="https://cdn.discordapp.com/attachments/1071434950814998596/1071650434411921448/PIS.png">
 <h2>Requirements</h2>
 <ul>
   <li>OpenAI API Key</li>
@@ -18,7 +18,6 @@
  
 <h2>Project Goals</h2>
 <p>Our project aims to spotlight the potential for gaming experiences powered by language models like GPT-3. We believe that games can be at the forefront of the integration of AI technology and are eager to explore this uncharted territory. Our team is open to brand-new programmers, enthusiastic prompt engineers, and AI systems experts alike. We are looking for individuals who are passionate about experimenting with unusual, fascinating and entertaining use cases for AI systems as a whole. Join us on this journey to discover the profound possibilities of AI in the gaming industry and push the boundaries of language models in totally unexpected ways.</p>
-
 <h2>Contributions</h2>
 <p>This project is open to contributions and pull requests are welcome. If you have any ideas or suggestions for improvements, please feel free to contribute!
 <a href="https://discord.gg/ep4DApswMj">Development Discord</a></p>

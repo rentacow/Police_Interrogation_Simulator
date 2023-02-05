@@ -8,4 +8,4 @@ def handle_command(command):
     # Add more command handling logic here as needed
 
 def toggle_debug_mode():
-    # code to toggle debug mode
+# code to toggle debug mode
